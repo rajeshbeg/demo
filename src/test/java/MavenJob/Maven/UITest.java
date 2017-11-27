@@ -12,5 +12,6 @@ public void uiData()
 public void uiTest()
 {
 System.out.println("Testing your ui data");	
+System.out.println("Testing your second UI");
 }
 }
